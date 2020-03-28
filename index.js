@@ -2,7 +2,7 @@
 let store = { neighborhoods: [], meals: [], customers: [], deliveries: [] };
 let neighborhoodIds = 1;
 
-cont Neighborhood = function() {
+const Neighborhood = function() {
 
 } {
   constroctor (name){
